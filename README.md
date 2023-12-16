@@ -6,5 +6,10 @@ Strengthened my PowerBI skills to better understand clients and their data visua
 Demonstrated expertise in data visualization through the creation of Power BI dashboards that effectively conveyed KPIs,
 showcasing the ability to respond to client requests with well-designed solutions.
 
-# Im uploading all the dataset as well the Power BI file in this repository 
+**I have uploaded a Video Presentation of this Project on My linkedIn profile: www.linkedin.com/in/iamutsavraj**
+
+**Video link: https://www.linkedin.com/posts/iamutsavraj_forage-datavisualization-pwc-activity-7141753510643052544-XDol?utm_source=share&utm_medium=member_desktop**
+
+**Im uploading all the dataset as well the Power BI file in this repository. I hope you like my work**
+
 Thank you for visiting.
